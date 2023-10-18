@@ -4,7 +4,7 @@
  * @head: The head of the stack of stack_t list
  * @n: The new_value used
  * Return: return Nothing always (0)
- * Wtitten by Daniel Mayowa||
+ * Wtitten by Daniel Mayowa|| Moses Iluyemi
 */
 void addnode(stack_t **head, int n)
 {

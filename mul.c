@@ -4,7 +4,7 @@
  * @head: The stack head of the stack_t list
  * @counter: The line_number used
  * Return: no return NOthing always (0)
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
 */
 void f_mul(stack_t **head, unsigned int counter)
 {

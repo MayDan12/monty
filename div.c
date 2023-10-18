@@ -4,7 +4,7 @@
  * two elements of the stack.
  * @head: The stack head of the stack_t
  * @counter: The line_number Used
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * Return: return Nothing always
 */
 void f_div(stack_t **head, unsigned int counter)

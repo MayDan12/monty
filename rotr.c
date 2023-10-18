@@ -3,7 +3,7 @@
  * f_rotr- This function rotates to the bottom of the stack
  * @head: This is the stack head
  * @counter: The line_number Used
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * Return: return Nothing always (0)
  */
 void f_rotr(stack_t **head, __attribute__((unused)) unsigned int counter)

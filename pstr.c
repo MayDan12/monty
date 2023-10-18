@@ -2,7 +2,7 @@
 /**
  * f_pstr - This function prints the string
  * starting at the top of the stack, followed by a new
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * @head: The stack head
  * @counter: The line_number
  * Return: no return Nothin Always

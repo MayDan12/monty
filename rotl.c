@@ -3,7 +3,7 @@
  * f_rotl- This function rotates the stack to the top
  * @head: The stack head of the stack_t list
  * @counter: The line_number used
- * written by Daniel Mayowa ||
+ * written by Daniel Mayowa || Moses Iluyemi
  * Return: no return
  */
 void f_rotl(stack_t **head,  __attribute__((unused)) unsigned int counter)

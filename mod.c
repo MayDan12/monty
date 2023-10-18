@@ -5,7 +5,7 @@
  * element of the stack
  * @head: The stack head
  * @counter: The line_number
- * Written by DAniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * Return: no return Nothing always
 */
 void f_mod(stack_t **head, unsigned int counter)

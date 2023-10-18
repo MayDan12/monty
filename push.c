@@ -1,7 +1,7 @@
 #include "monty.h"
 /**
  * f_push - This function add node to the stack Lists
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * @head: This is the stack head used
  * @counter: The line_number used
  * Return: no return Nothing Always (0)

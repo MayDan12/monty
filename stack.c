@@ -3,7 +3,7 @@
  * f_stack - This function always prints the top
  * @head: This is the stack head
  * @counter: The line_number used
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  *
  * Return: no return Nothing Always (0)
 */

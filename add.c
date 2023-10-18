@@ -4,7 +4,7 @@
  * elements of the stack.
  * @head: This is the stack head
  * @counter: The line_number
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * Return: return Nothing always (0)
 */
 void f_add(stack_t **head, unsigned int counter)

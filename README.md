@@ -1,4 +1,5 @@
 0x19. C - Stacks, Queues - LIFO, FIFO
+Project done by MOSES ILUYEMI AND OLUWANIMOTELE MAYOWA DANIEL
 Learning Objectives
 	At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 

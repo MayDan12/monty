@@ -3,7 +3,7 @@
  * f_sub - This function does subtration
  * @head: The stack head of the stack_t list
  * @counter: The line_number used
- * Writen by Daniel Mayowa ||
+ * Writen by Daniel Mayowa || Moses Iluyemi
  * Return: no return Nothing always (0)
  */
 void f_sub(stack_t **head, unsigned int counter)

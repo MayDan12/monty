@@ -6,7 +6,7 @@ bus_t bus = {NULL, NULL, NULL, 0};
 * main - This is the monty code interpreter function
 * @argc: The total number of arguments
 * @argv: The monty file location
-* written by Damiel Mayowa ||
+* written by Damiel Mayowa || Moses Iluyemi
 * Return: 0 on success and -1 if failed
 */
 int main(int argc, char *argv[])

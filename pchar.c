@@ -4,7 +4,7 @@
  * of the stack, followed by a new line
  * @head: This is the stack head used
  * @counter: The line_number used
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * Return: return Nothing always (0)
 */
 void f_pchar(stack_t **head, unsigned int counter)

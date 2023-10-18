@@ -3,7 +3,7 @@
  * f_pall - This function prints the stack
  * @head: The stack head
  * @counter: no used counter
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * Return: no return Nothing Always
 */
 void f_pall(stack_t **head, unsigned int counter)

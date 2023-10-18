@@ -4,7 +4,7 @@
  * @head: The stack head of the stack_t list
  * @counter: The line_numberc used
  * Return: no return Nothing Always (1)
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
 */
 void f_queue(stack_t **head, unsigned int counter)
 {

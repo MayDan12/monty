@@ -3,7 +3,7 @@
  * f_pop - This function prints the top
  * @head: The stack head to tyhe stack_t list
  * @counter: The line_number used
- * written by Daniel Mayowa ||
+ * written by Daniel Mayowa || Moses Iluyemi
  * Return: no return n othin always (0)
 */
 void f_pop(stack_t **head, unsigned int counter)

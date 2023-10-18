@@ -3,7 +3,7 @@
  * f_swap - This function adds the top two elements of the stack.
  * @head: The stack head of the stack_t list
  * @counter: The line_number used
- * Written by Daniel Mayowa ||
+ * Written by Daniel Mayowa || Moses Iluyemi
  * Return: no return Nothing always (0)
 */
 void f_swap(stack_t **head, unsigned int counter)
